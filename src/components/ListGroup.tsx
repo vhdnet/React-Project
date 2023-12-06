@@ -10,5 +10,4 @@ function ListGroup() {
   );
 }
 
-//my first comment
 export default ListGroup;
